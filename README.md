@@ -2,6 +2,7 @@
 
 ## Deskripsi Proyek
 Proyek ini adalah aplikasi Java sederhana yang dibangun menggunakan Apache NetBeans untuk menghitung nilai akhir siswa kursus pemrograman dan menentukan status kelulusan beserta grade nilai berdasarkan berbagai komponen penilaian.
+
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-red.svg)](https://www.java.com)
 
 ## Fitur
